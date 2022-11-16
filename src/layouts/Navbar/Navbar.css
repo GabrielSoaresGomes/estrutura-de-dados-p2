@@ -1,0 +1,11 @@
+.navbar {
+  background-color: lightgray;
+  padding: 18px;
+}
+
+.nav-ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+
+}
