@@ -6,7 +6,7 @@ const Navbar = () => {
     <nav className="navbar">
       <ul className="nav-ul">
         <NavItems text='Home' to='/' />
-        <NavItems text='Home' to='/1' />
+        <NavItems text='Teste' to='/teste' />
       </ul>
     </nav>
   );
