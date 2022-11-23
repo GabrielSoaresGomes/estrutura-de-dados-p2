@@ -1,6 +1,47 @@
 .card {
-    background-color: lightblue;
-    width: 120px;
-    height: 200px;
-    border-radius: 8px;
+    width: 840px;
+    height: 280px;
+    background-color: white; 
+    border-radius: 5px;
+    display: flex;
+    box-shadow: 8px 8px 20px rgba(0, 0, 0, .1);
+    margin: 2% 0 2% 0;
+}
+  
+.thumb-card {
+    display: flex;
+    width: 336px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.thumb-card img {
+    display: flex;
+    width: 80%;
+}
+
+.content-card {
+    display: flex;
+    flex-direction: column;
+    width: 504px;
+}
+
+.card a {
+    display: flex;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 32px;
+    align-items: center;
+    height: 30%;
+    color: #6d4026;
+}
+
+.text-card {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    display: flex;
+    color: #4D5923;
+    height: 70%;
 }
