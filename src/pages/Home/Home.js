@@ -7,8 +7,8 @@ import './Home.css'
 
 const Home = () => {
   return (
-      <Container>
-        <H1 text={'Home'} />
+      <div>
+        <H1 text={'Estrutura de Dados '} subtext={'Árvore Binária'}/>
         <div className="content">
           <CardContainer>
               <Card title='Árvore B' text={'rtertertertertete'} to={'/arvoreB'} imageUrl={'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Binary_tree.svg/800px-Binary_tree.svg.png'} />
@@ -19,7 +19,7 @@ const Home = () => {
 
           </CardContainer>
         </div>
-      </Container>
+      </div>
   )
 }
 

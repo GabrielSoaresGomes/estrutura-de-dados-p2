@@ -5,7 +5,7 @@ import './H1.css'
 const H1 = ({text}) => {
   return (
     <h1 className='title'>
-      {text}
+      {text}<br></br>Árvore Binária
     </h1>
   )
 }

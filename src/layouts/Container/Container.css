@@ -1,3 +1,34 @@
 .container {
-    margin: 0 15%;
+    padding: 0 15%;
+    background-color: #191A19;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #DCD7C9 ;
+    font-size: 18px;
+}
+
+.iframe-container {
+    text-align: center;
+    margin: 6% 0;
+}
+
+iframe {
+    width: 1080px;
+    height: 720px;
+}
+
+pre {
+    background-color: #282A36;
+    border-radius: 3px;
+    padding: 2%;
+    margin-bottom: 2%;
+    color: #f8f8f0;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
+}
+
+p {
+    color: #DCD7C9 ;
 }
