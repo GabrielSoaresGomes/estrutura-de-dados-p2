@@ -10,3 +10,9 @@
   background-color: rgba(0, 0, 0, 1);
   background-image: url('./background.jpg');
 }
+
+.imagem-detalhes {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
