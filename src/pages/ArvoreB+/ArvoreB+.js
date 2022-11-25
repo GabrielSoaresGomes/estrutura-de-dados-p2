@@ -5,6 +5,7 @@ const ArvoreBPlus = () => {
     return (
         <Container>
             <H1 text='ArvoresB+' />
+            <div className="imagem-detalhes"> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bplustree.png/500px-Bplustree.png' /></div>
 
     <p>Na ciência da computação uma árvore B+ é uma estrutura de dados do tipo árvore derivada das árvores B, mas com uma forma diferente de armazenamento de suas chaves. Tal organização confere propriedades, algoritmos de inserção, busca e remoção de chaves diferentes dos utilizados em árvores B, mas com uma gama de aplicações muito semelhantes em banco de dados e sistemas de arquivos.</p>
     <br />

@@ -5,7 +5,7 @@ const ArvoreBAsterisk = () => {
     return (
         <Container>
             <H1 text='Àrvore B star' />
-            <p>Arvore Maluca da tropa do mantém</p>
+            <div className="imagem-detalhes"> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bstartree-overflow.svg/375px-Bstartree-overflow.svg.png' /></div>
 
 <p>Uma árvore B* é uma estrutura de dados na ciência da computação e uma variação da árvore B proposta em 1973 por Donald E. Knuth. Esta apresenta mecanismos de inserção, remoção e busca muito semelhantes aos realizados em árvores B, mas com a diferença em que a técnica de redistribuição de chaves também é empregada durante as operações de inserção. Dessa maneira a operação de split pode ser adiada até que duas páginas irmãs estejam completamente cheias e, a partir daí, o conteúdo dessas páginas irmãs é redistribuído entre três páginas (uma nova criada e as duas páginas irmãs anteriormente cheias).</p>
 <br />
