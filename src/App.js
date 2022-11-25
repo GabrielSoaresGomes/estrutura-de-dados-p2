@@ -4,7 +4,7 @@ import Navbar from './layouts/Navbar/Navbar';
 import Home from './pages/Home/Home';
 import ArvoreB from "./pages/ArvoreB/ArvoreB";
 import ArvoreBPlus from "./pages/ArvoreB+/ArvoreB+";
-import ArvoreBAsterisk from "./pages/ArvoreB*/ArvoreB*";
+import ArvoreBAsterisk from "./pages/ArvoreBasterisco/ArvoreBasterisco";
 import ArvoreVermelhoPreto from "./pages/ArvoreVermelhoPreto/ArvoreVermelhoPreto";
 import Integrantes from "./pages/Integrantes/Integrantes";
 import Error404 from "./pages/404/404";
