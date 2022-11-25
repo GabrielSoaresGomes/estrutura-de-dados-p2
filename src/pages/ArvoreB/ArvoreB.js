@@ -4,7 +4,7 @@ import H1 from "../../layouts/H1/H1";
 const ArvoreB = () => {
     return (
         <Container>
-            <H1 text={'ArvovesB'} />
+            <H1 text={'Árvore B'} />
             <div className="imagem-detalhes"> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Binary_tree.svg/800px-Binary_tree.svg.png' /></div>
            
 
