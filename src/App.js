@@ -8,6 +8,7 @@ import ArvoreBAsterisk from "./pages/ArvoreBasterisco/ArvoreBasterisco";
 import ArvoreVermelhoPreto from "./pages/ArvoreVermelhoPreto/ArvoreVermelhoPreto";
 import Integrantes from "./pages/Integrantes/Integrantes";
 import Error404 from "./pages/404/404";
+import Footer from './layouts/Footer/Footer';
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
         <Route path='/integrantes' exact element={<Integrantes />} />
         <Route path='*' element={<Error404 />} />
       </Routes>
+      <Footer />
     </>
   );
 }

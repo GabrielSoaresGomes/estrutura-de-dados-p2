@@ -58,3 +58,8 @@ svg {
 .svg-bottom {
     margin-bottom: -200px;
 }
+
+.imagem-arvore {
+    fill: white;
+    filter: invert(1);
+}
