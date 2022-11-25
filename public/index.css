@@ -15,4 +15,9 @@
   display: flex;
   justify-content: center;
   flex-direction: row;
+  margin: 5%;
+}
+
+.imagem-detalhes img {
+  width: 600px;
 }

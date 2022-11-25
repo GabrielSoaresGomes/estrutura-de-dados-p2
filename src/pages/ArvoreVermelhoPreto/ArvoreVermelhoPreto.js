@@ -5,7 +5,7 @@ const ArvoreVermelhoPreto = () => {
     return (
         <Container>
             <H1 text='Arvore Vermelho e Preto' />
-
+            <div className="imagem-detalhes"> <img src='https://www.dgp.toronto.edu/public_user/JamesStewart/378notes/16redBlack/d_RB01.gif' /></div>
 <p>Uma árvore rubro-negra é um tipo de árvore binária de busca balanceada, uma estrutura de dados usada em ciência da computação, tipicamente para implementar vetores associativos. A estrutura original foi inventada em 1972, por Rudolf Bayer[carece de fontes] que a chamou de "Árvores Binárias B Simétricas", mas adquiriu este nome moderno em um artigo de 1978 escrito por Leonidas J. Guibas e Robert Sedgewick.[2] Ela é complexa, mas tem um bom pior-caso de tempo de execução para suas operações e é eficiente na prática: pode-se buscar, inserir, e remover em tempo O(log n), onde n é o número total de elementos da árvore. De maneira simplificada, uma árvore rubro-negra é uma árvore de busca binária que insere e remove de forma inteligente, para assegurar que a árvore permaneça aproximadamente balanceada.</p>
 <div className='iframe-container'>
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/vSAE4O2zpkY" title="Árvore Rubro-Negra (Aula 11) - Inserção" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
