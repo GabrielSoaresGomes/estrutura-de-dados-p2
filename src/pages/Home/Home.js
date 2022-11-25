@@ -12,9 +12,9 @@ const Home = () => {
         <div className="content">
           <CardContainer>
               <Card title='Árvore B' text={'Em ciência da computação, uma árvore B é uma estrutura de dados em árvore, auto-balanceada...'} to={'/arvoreB'} imageUrl={'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Binary_tree.svg/800px-Binary_tree.svg.png'} />
-              <Card title='Árvore B+' text={'Na ciência da computação uma árvore B+ é uma estrutura de dados do tipo árvore derivada das árvores B, mas com uma forma...'} to={'/arvoreB+'} imageUrl={''} />
+              <Card title='Árvore B+' text={'Na ciência da computação uma árvore B+ é uma estrutura de dados do tipo árvore derivada das árvores B, mas com uma forma...'} to={'/arvoreB+'} imageUrl={'https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bplustree.png/500px-Bplustree.png'} />
               <Card title='Árvore Mengão' text={'Uma árvore rubro-negra é um tipo de árvore binária de busca balanceada, uma estrutura de dados usada em ciência da computação, tipicamente para...'} to={'/arvoreVermelhoPreto'} imageUrl={'https://www.dgp.toronto.edu/public_user/JamesStewart/378notes/16redBlack/d_RB01.gif'} />
-              <Card title='Árvore B*' text={'Uma árvore B* é uma estrutura de dados na ciência da computação e uma variação da árvore B proposta em 1973 por Donald E. Knuth. Esta...'} to={'/arvoreBAsterisk'} imageUrl={''} />
+              <Card title='Árvore B*' text={'Uma árvore B* é uma estrutura de dados na ciência da computação e uma variação da árvore B proposta em 1973 por Donald E. Knuth. Esta...'} to={'/arvoreBAsterisk'} imageUrl={'https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bstartree-overflow.svg/375px-Bstartree-overflow.svg.png'} />
 
           </CardContainer>
         </div>
